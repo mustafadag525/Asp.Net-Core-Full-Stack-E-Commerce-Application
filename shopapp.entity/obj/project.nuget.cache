@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJbsOXvz4DXEuOwxAKEF251GKtPJZBXgAPgH3epiw33iOJ9AbLA4O8LI7PSb/klOkt6GaviO/xas6xEtaldyRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo PC\\Desktop\\dil\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
